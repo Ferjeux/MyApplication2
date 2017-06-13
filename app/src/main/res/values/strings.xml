@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">MyApplication</string>
+    <string name="Bravo">Bravo</string>
+    <string name="C_est_faux">C\'est faux</string>
+    <string name="recommencer">recommencer</string>
+    <string name="Q1">arc ou lance?</string>
+    <string name="Q2">romain ou grec?</string>
+    <string name="Q3">volet ou rideau?</string>
+    <string name="Q4">wow ou lol?</string>
+    <string name="Q5">word ou notepadd++?</string>
+    <string name="R11">arc</string>
+    <string name="R21">romain</string>
+    <string name="R31">volet</string>
+    <string name="R41" translatable="false">wow</string>
+    <string name="R51" translatable="false">word</string>
+    <string name="R12">lance</string>
+    <string name="R22" translatable="false">grec</string>
+    <string name="R32">rideau</string>
+    <string name="R42" translatable="false">lol</string>
+    <string name="R52" translatable="false">notepadd++</string>
 </resources>

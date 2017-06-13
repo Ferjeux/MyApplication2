@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="Bravo">Well done</string>
+    <string name="C_est_faux">Wrong</string>
+    <string name="Q1">Bow or spear</string>
+    <string name="Q2">Roman or Grec?</string>
+    <string name="Q3">Shutter or curtain</string>
+    <string name="Q4">wow or lol?</string>
+    <string name="Q5">word or notepadd++</string>
+    <string name="R11">bow</string>
+    <string name="R12">spear</string>
+    <string name="R21">Roman</string>
+    <string name="R31">shutter</string>
+    <string name="R32">curtain</string>
+    <string name="recommencer">try again</string>
+</resources>
